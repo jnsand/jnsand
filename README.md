@@ -5,8 +5,6 @@
   Senior Full-Stack and Blockchain Engineer
 </h2>
 
-## Summary
-
 Hello! 👋
 Welcome to my code storage.
 
