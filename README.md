@@ -7,8 +7,6 @@
 
 ## Summary
 
-<p align="center">
-  <div align="left" width="80%">
 Hello! 👋
 Welcome to my code storage.
 My programming journey started from C/C++ has reached the full stack development including JavaScript ecosystem, Go, Rust and etc.
@@ -20,8 +18,6 @@ Combining the Pomodoro method with task management tools, I improve the efficien
 Also have ability to identify the problems, brainstorm and analyze answers and implement the best solutions.
 I am looking for a great challenges to utilize my skills and experience.
 In my spare time, I solve leetcode problems to improve my data structure and algorithm skills.
-  </div>
-</p>
 
 ## Skills
 
