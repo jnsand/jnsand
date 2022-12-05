@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Sirius198" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Sirius198" /> </p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Full-Stack and Blockchain Engineer
 </h1>
 
-# Summary
+## Summary
 
 <p align="center">
   <div align="left" width="80%">
@@ -23,29 +23,37 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
   </div>
 </p>
 
-# Skills
+## Skills
 
-#### Frontend
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+### Frontend
+![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=for-the-badge&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3bac3a)
 
-#### Backend
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+### Backend
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=for-the-badge&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=for-the-badge&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=for-the-badge&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=for-the-badge&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=for-the-badge&logo=erc20&logoColor=white&color=3bac3a)
 
-#### Database
+### Database
+![](https://img.shields.io/badge/Network-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Postgres-informational?style=for-the-badge&logo=postgres&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=3bac3a)
 
-#### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+### Other
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=for-the-badge&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=for-the-badge&logo=circleci&logoColor=white&color=3bac3a)
+
+
+## Contact Me
