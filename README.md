@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Sirius198" /> </p>
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Full-Stack and Blockchain Engineer
-</h2>
+## Summary
 
 Hello! 👋
 Welcome to my code storage.
