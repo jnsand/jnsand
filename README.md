@@ -26,34 +26,30 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 ## Skills
 
 ### Frontend
-![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=for-the-badge&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=next&logoColor=white)
+![](https://img.shields.io/badge/Nuxt.js-0092C9?style=for-the-badge&logo=nuxt&logoColor=white)
 
 ### Backend
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=for-the-badge&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=for-the-badge&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=for-the-badge&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=for-the-badge&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=for-the-badge&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Database
-![](https://img.shields.io/badge/Network-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Postgres-informational?style=for-the-badge&logo=postgres&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=for-the-badge&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=for-the-badge&logo=circleci&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 
 
 ## Contact Me
