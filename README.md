@@ -34,6 +34,8 @@ me **henry191118@gmail.com**
   </a>
 </p>
 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend:</h4>
 <p align="left">
@@ -109,8 +111,6 @@ me **henry191118@gmail.com**
 
 <h4 align="left">Backend:</h4>
 <p align="left">
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
