@@ -26,6 +26,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 ## Skills
 
 ### Frontend
+
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,6 +35,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 ![](https://img.shields.io/badge/Nuxt.js-0092C9?style=for-the-badge&logo=nuxt&logoColor=white)
 
 ### Backend
+
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -41,15 +43,23 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Database
+
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Other
+
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 
-
 ## Contact Me
+
+<p align="left">
+<a href="https://dev.to/sirius198" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirius198" height="30" width="40" /></a>
+<a href="https://www.behance.net/henrybrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="henrybrown" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sirius198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sirius198" height="30" width="40" /></a>
+</p>
