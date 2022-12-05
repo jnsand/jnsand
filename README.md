@@ -60,6 +60,6 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 <p align="left">
 <a href="https://dev.to/sirius198" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirius198" height="30" width="40" /></a>
-<a href="https://www.behance.net/henrybrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="henrybrown" height="30" width="40" /></a>
+<a href="https://www.behance.net/henrybrown198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="henrybrown" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sirius198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sirius198" height="30" width="40" /></a>
 </p>
