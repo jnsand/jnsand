@@ -19,9 +19,13 @@ In order to produce top quality products, I followed coding best practices and c
 And I coached many junior developers, which allowed me to gain solid grasp of knowledge.
 
 While working remotely on startups and well-established corporations, I strengthened communication and teamwork and kept the team moving at a very fast pace.
+
 Combining the Pomodoro method with task management tools, I improve the efficiency of work and meet the dealine of the projects.
+
 Also have ability to identify the problems, brainstorm and analyze answers and implement the best solutions.
+
 I am looking for a great challenges to utilize my skills and experience.
+
 In my spare time, I solve leetcode problems to improve my data structure and algorithm skills.
 
 ## Skills
