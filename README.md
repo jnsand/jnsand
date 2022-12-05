@@ -1,20 +1,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Sirius198" /> </p>
 
-<h1 align="center">
+<h2 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Full-Stack and Blockchain Engineer
-</h1>
+</h2>
 
 ## Summary
 
 Hello! 👋
 Welcome to my code storage.
 
-My programming journey started from C/C++ has reached the full stack development including JavaScript ecosystem, Go, Rust and etc.
+Programming journey started from C/C++ has reached the full stack development including JavaScript ecosystem, Go, Rust and etc.
 
 Even today, 8 years later, I have a strong passion for programming and still contribute to the community.
 
-In order to produce top quality products, I followed coding best practices and constantly learned from other developers.
+In order to produce top quality products, I followed best coding practices and constantly learned from other developers.
 
 And I coached many junior developers, which allowed me to gain solid grasp of knowledge.
 
@@ -60,7 +60,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat&logo=nginx&logoColor=white)
 
-## Contact Me
+## Fine me online
 
 <p align="left">
 <a href="https://dev.to/sirius198" target="blank">
