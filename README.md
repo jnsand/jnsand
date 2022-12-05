@@ -1,15 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="atosdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Sirius198" /> </p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Full-Stack and Blockchain Engineer
 </h1>
 
-<p align="center">
-  <img src="./logo.gif" />
-</p>
-
-<h3 align="left">Summary</h3>
+# Summary
 
 <p align="center">
   <div align="left" width="80%">
@@ -27,7 +23,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
   </div>
 </p>
 
-<h2 align="left">Skillset:</h2>  
+# Skills
 
 #### Frontend
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
