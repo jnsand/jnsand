@@ -9,10 +9,15 @@
 
 Hello! 👋
 Welcome to my code storage.
+
 My programming journey started from C/C++ has reached the full stack development including JavaScript ecosystem, Go, Rust and etc.
+
 Even today, 8 years later, I have a strong passion for programming and still contribute to the community.
+
 In order to produce top quality products, I followed coding best practices and constantly learned from other developers.
-And I coached many junior developers, which allowed me to gain solid grasp of knowledge
+
+And I coached many junior developers, which allowed me to gain solid grasp of knowledge.
+
 While working remotely on startups and well-established corporations, I strengthened communication and teamwork and kept the team moving at a very fast pace.
 Combining the Pomodoro method with task management tools, I improve the efficiency of work and meet the dealine of the projects.
 Also have ability to identify the problems, brainstorm and analyze answers and implement the best solutions.
