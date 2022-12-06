@@ -23,7 +23,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 
 I am looking for great challenges to utilize my skills and experience.
 
-## Skills
+## 🚀 Skills
 
 #### Frontend
 
@@ -63,7 +63,7 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/NVIDIA-GeForce_RTX3060-76B900?style=flat&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Windows-GALAX-0078D6?style=flat&logo=windows&logoColor=white)
 
-## Contact Me
+## 📱 Contact
 
 ###
 
