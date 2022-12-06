@@ -31,8 +31,8 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Next.js-0082C9?style=flat&logo=nextjs&logoColor=white)
-![](https://img.shields.io/badge/Nuxt.js-0092C9?style=flat&logo=nuxtjs&logoColor=white)
+![](https://img.shields.io/badge/Next.js-0082C9?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt.js-0092C9?style=flat&logo=nuxt.js&logoColor=white)
 
 #### Backend
 
