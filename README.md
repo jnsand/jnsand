@@ -59,7 +59,7 @@ I am looking for great challenges to utilize my skills and experience.
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Nginx-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
