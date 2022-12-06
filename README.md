@@ -57,6 +57,12 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat&logo=nginx&logoColor=white)
 
+## Workspace
+
+![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GeForce_RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Windows-GALAX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## Contact Me
 
 ###
