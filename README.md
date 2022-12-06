@@ -33,6 +33,7 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Next.js-0082C9?style=flat&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Nuxt.js-0092C9?style=flat&logo=nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 #### Backend
 
