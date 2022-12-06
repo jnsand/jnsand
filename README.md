@@ -56,7 +56,6 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat&logo=nginx&logoColor=white)
 
 ## Contact Me
-<h3 align="left">Hi 👋! My name is Henry Brown and I'm a full stack developer from Canada</h3>
 
 ###
 
