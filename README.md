@@ -55,11 +55,27 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat&logo=nginx&logoColor=white)
 
-## Fine me online
+## Contact Me
+<h3 align="left">Hi 👋! My name is Henry Brown and I'm a full stack developer from Canada</h3>
 
-<p align="left">
-<a href="https://dev.to/sirius198" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirius198" height="30" width="40" /></a>
-<a href="https://www.behance.net/henrybrown198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="henrybrown" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sirius198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sirius198" height="30" width="40" /></a>
-</p>
+###
+
+<div align="left">
+  <a href="mailto:mtwbp101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/maketheworldbeterplace" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://behance.net/henrybrown198" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://dev.to/sirius198" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
+  </a>
+</div>
+
+###
