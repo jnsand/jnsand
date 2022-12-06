@@ -59,9 +59,9 @@ I am looking for great challenges to utilize my skills and experience.
 
 ## Workspace
 
-![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-GeForce_RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/Windows-GALAX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=flat&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GeForce_RTX3060-76B900?style=flat&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Windows-GALAX-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## Contact Me
 
