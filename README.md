@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat-square" alt="Sirius198" /> </p>
 
-## Summary
+# Summary
 
 Hello! 👋
 Welcome to my code storage.
@@ -23,7 +23,7 @@ In my spare time, I solve leetcode problems to improve my data structure and alg
 
 I am looking for great challenges to utilize my skills and experience.
 
-## 🚀 Skills
+# 🚀 Skills
 
 #### Frontend
 
@@ -60,15 +60,18 @@ I am looking for great challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-%23DD0031.svg?&style=flat-square&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 
-## 💻 Workspace
+# 💻 Workspace
 
 ![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GeForce_RTX3060-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-## 📱 Contact
+# 📱 Contact
 
 ###
 
