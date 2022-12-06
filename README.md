@@ -77,7 +77,7 @@ I am looking for great challenges to utilize my skills and experience.
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" alt="discord logo"  />
   </a>
-  <a href="https://behance.net/henrybrown198" target="_blank">
+  <a href="https://leetcode.com/sirius198" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="leetcode logo"  />
   </a>
   <a href="https://behance.net/henrybrown198" target="_blank">
