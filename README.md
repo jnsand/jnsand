@@ -85,13 +85,13 @@ I am looking for great challenges to utilize my skills and experience.
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" alt="discord logo"  />
   </a>
-  <a href="https://leetcode.com/kenjifukuda" target="_blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="leetcode logo"  />
   </a>
-  <a href="https://behance.net/kenjifuk" target="_blank">
+  <a href="https://behance.net/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" alt="behance logo"  />
   </a>
-  <a href="https://dev.to/kenjifukuda" target="_blank">
+  <a href="https://dev.to/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat"  alt="devto logo"  />
   </a>
  
