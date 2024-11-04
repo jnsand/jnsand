@@ -1,29 +1,26 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Sirius198" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="jnsand" /> </p>
 
-# Summary
+## Hello! 👋, I'm Jonas Andersen
 
-Hello! 👋
-Welcome to my code storage.
+My coding journey started in C/C++ and has reached full stack development, including JavaScript, Go, Rust, etc.
 
-Programming journey started from C/C++ has reached the full stack development including JavaScript ecosystem, Go, Rust and etc.
+Even today, 10 years later, I have a strong passion for programming and am still contributing to the community.
 
-Even today, 8 years later, I have a strong passion for programming and still contribute to the community.
+To produce the top-quality products, I follow best coding practices and constantly learn from other developers.
 
-In order to produce top quality products, I followed best coding practices and constantly learned from other developers.
+And I coached many junior developers, which allowed me to gain a solid grasp of knowledge.
 
-And I coached many junior developers, which allowed me to gain solid grasp of knowledge.
+While working remotely on startups and well-established corporations, I strengthened communication and teamwork.
 
-While working remotely on startups and well-established corporations, I strengthened communication and teamwork and kept the team moving at a very fast pace.
+Combining the Pomodoro method with task management tools, I improve the efficiency of work and meet the project deadline.
 
-Combining the Pomodoro method with task management tools, I improve the efficiency of work and meet the dealine of the projects.
-
-Also have ability to identify the problems, brainstorm and analyze answers and implement the best solutions.
+I also have the ability to identify the problems, brainstorm, and find the best solutions.
 
 In my spare time, I solve leetcode problems to improve my data structure and algorithm skills.
 
-I am looking for great challenges to utilize my skills and experience.
+I am looking for challenges to utilize my skills and experience.
 
-# 🚀 Skills
+## 🚀 Skills
 
 #### Frontend
 
