@@ -41,7 +41,8 @@ I am looking for challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
-![](https://img.shields.io/badge/Cosmos_SDK-blue?style=flat&logo=Cosmos&logoColor=white)
+![](https://img.shields.io/badge/Cosmos_SDK-blue?style=flat&logo=CosmosSDK&logoColor=white)
+![](https://img.shields.io/badge/Solana-teal?style=flat&logo=Solana&logoColor=white)
 
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
