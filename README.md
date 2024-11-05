@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnsand&label=Profile%20views&color=0e75b6&style=flat" alt="jnsand" /> </p>
-
 ## Hello! 👋, I'm Jonas Andersen
 
 My coding journey started in C/C++ and has reached full stack development, including JavaScript, Go, Rust, etc.
