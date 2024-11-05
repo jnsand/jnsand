@@ -20,8 +20,6 @@ I am looking for challenges to utilize my skills and experience.
 
 ## 🚀 Skills
 
-#### Frontend
-
 ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -30,8 +28,6 @@ I am looking for challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Nuxt.js-0092C9?style=flat&logo=nuxt.js&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### Backend
-
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -39,18 +35,14 @@ I am looking for challenges to utilize my skills and experience.
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
 
-#### Database
-
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
-#### Blockchain
 ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 ![](https://img.shields.io/badge/Cosmos_SDK-blue?style=flat&logo=Cosmos&logoColor=white)
 
-#### Other
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%23DD0031.svg?&style=flat&logo=docker&logoColor=white)
