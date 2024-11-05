@@ -14,7 +14,7 @@ Combining the Pomodoro method with task management tools, I improve the efficien
 
 I also have the ability to identify the problems, brainstorm, and find the best solutions.
 
-In my spare time, I solve leetcode problems to improve my data structure and algorithm skills.
+In my spare time, I solve [leetcode](https://leetcode.com/u/jnsand/) problems to improve my data structure and algorithm skills.
 
 I am looking for challenges to utilize my skills and experience.
 
