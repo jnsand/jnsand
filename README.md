@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="jnsand" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnsand&label=Profile%20views&color=0e75b6&style=flat" alt="jnsand" /> </p>
 
 ## Hello! 👋, I'm Jonas Andersen
 
